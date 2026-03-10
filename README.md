@@ -43,12 +43,16 @@ npm run dev
 php artisan serve
 ```
 
+## 📸 Screenshots
+
+![Dashboard](screenshots/dashboard.png)
+![Annonces](screenshots/index.png)
+![Détail](screenshots/show.png)
+![Ajouter](screenshots/create.png)
+
 ## 📬 Contact
 
-- 📧 hilalimarwa017@gmail.com
+- 📧  [hilalimarwa017@gmail.com](mailto:hilalimarwa017@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/marwa-hilali)
-<<<<<<< HEAD
 - 🐙 [GitHub](https://github.com/hilali-marwa017)
-=======
-- 🐙 [GitHub](https://github.com/hilali-marwa017)
->>>>>>> ae2471de7c7e01df80ac69299a8ecd387463deab
+
