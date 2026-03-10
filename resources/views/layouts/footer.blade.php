@@ -1,0 +1,1 @@
+<footer class="text-center py-3 text-muted bg-white border-top" style="font-size:0.8rem;">© 2026 MotoShop</footer>
