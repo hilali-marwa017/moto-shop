@@ -4,7 +4,7 @@
     </div>
     <ul class="nav flex-column mt-3 flex-grow-1">
         <li class="nav-item">
-            <a class="nav-link" href="{{ route('motos.index') }}">
+            <a class="nav-link" href="{{ route('dashboard') }}">
                 <i class="bi bi-speedometer2"></i> Dashboard
             </a>
         </li>

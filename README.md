@@ -47,4 +47,8 @@ php artisan serve
 
 - 📧 hilalimarwa017@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/marwa-hilali)
+<<<<<<< HEAD
 - 🐙 [GitHub](https://github.com/hilali-marwa017)
+=======
+- 🐙 [GitHub](https://github.com/hilali-marwa017)
+>>>>>>> ae2471de7c7e01df80ac69299a8ecd387463deab
