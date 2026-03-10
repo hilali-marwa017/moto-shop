@@ -45,9 +45,16 @@ php artisan serve
 
 ## 📸 Screenshots
 
+### 📊 Dashboard
 ![Dashboard](screenshots/dashboard.png)
+
+### 🏍️ Annonces
 ![Annonces](screenshots/index.png)
+
+### 👁️ Détail
 ![Détail](screenshots/show.png)
+
+### ➕ Ajouter
 ![Ajouter](screenshots/create.png)
 
 ## 📬 Contact
