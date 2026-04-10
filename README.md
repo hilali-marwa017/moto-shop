@@ -17,8 +17,6 @@ Application web full-stack de gestion d'annonces de motos développée avec Lara
 - PHP 8.2
 - MySQL
 - Bootstrap 5
-- Bootstrap Icons
-- Vite
 
 ## ⚙️ Installation
 ```bash
